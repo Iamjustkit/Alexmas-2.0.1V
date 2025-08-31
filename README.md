@@ -14,7 +14,9 @@ Student subscription Tracker for Alexmas Learning Center
  -
 
  -It has one of the Most secure App having no Backdoors and a special Backup system that saves your students Data without of the worry of losing the files And Also OpenSourced
+ 
  -It is made by an anspiring Middle schooler who dream of being something helpful in the community 
+ 
 
 
 
